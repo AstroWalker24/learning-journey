@@ -1,5 +1,3 @@
-# learning-journey
-
 # CSS Diner: All Levels Completed 🥳
 
 ![CSS Diner Completion](./css-diner-completion.png)
